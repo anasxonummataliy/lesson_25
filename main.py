@@ -29,3 +29,5 @@ if __name__ == "__main__":
 
 
 print('salom')
+
+print('authdan yozildi')
